@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<repositories version="1.0">
+  <repo priority="50" quality="experimental" status="unofficial">
+    <name>anders-larsson</name>
+    <description>Packages not maintained elsewhere</description>
+    <homepage>https://github.com/anders-larsson/gentoo-overlay</homepage>
+    <owner>
+      <email>andla@thethundertemplars.com</email>
+      <name>Anders Larsson</name>
+    </owner>
+    <source type="git">https://github.com/anders-larsson/gentoo-overlay.git</source>
+  </repo>
+</repositories>
